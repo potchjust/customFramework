@@ -1,0 +1,12 @@
+{
+    "name": "theskiel/custom-framework",
+    "description": "Custom framework made on top of slim",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "POTCHONA Justin",
+            "email": "potchjust@gmail.com"
+        }
+    ],
+    "require": {}
+}
